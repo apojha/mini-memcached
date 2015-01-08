@@ -3,6 +3,7 @@
 *.iml
 *.idea
 .gradle
+.vagrant
 out
 gradle
 build
